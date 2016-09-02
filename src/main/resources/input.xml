@@ -1,0 +1,7 @@
+<dataset>
+    <SALARY id="1" value="25000" bonus="5000" increment="0"/>
+    <SALARY id="2" value="1000.00" bonus="500.00" increment="100.00"/>
+    <SALARY id="3" value="2000.00" bonus="450.50" increment="234.10"/>
+    <SALARY id="4" value="3000.00" bonus="650.45" increment="200.80"/>
+    <SALARY id="5" value="4000.00" bonus="789.32" increment="500.67"/>
+</dataset>
